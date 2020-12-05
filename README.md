@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>PHP, JS, REACT</strong>
+  🦄 Linguagens: <strong>PHP | JS | REACT</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Docker, Gulp</strong>
+  💼 Ferramentas: <strong>VS Code | Docker | Gulp</strong>
 </p>
 
 <p align="left">

@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>PHP, JS, NODE, REACT</strong>
+  🦄 Linguagens: <strong>PHP, JS, REACT</strong>
 </p>
 
 <p align="left">

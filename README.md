@@ -6,15 +6,15 @@ Hello my name is Lucas, I'm Front-end Developer.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3, JavaScript (React), Sass, Bootstrap, Materialize and UI/UX Design.</strong>
+  🚀 Skills: <strong>HTML5, CSS3, JavaScript (React), Sass, Bootstrap, Materialize and UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git and GitHub.</strong>
+🔨 Tools: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git and GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 If you want to carry out a project with me, don't hesitate to send me a message:: ⤵️
+📧 If you want to carry out a project with me, don't hesitate to send me a message:: ⤵️
 </p>
 
 <p align="left">

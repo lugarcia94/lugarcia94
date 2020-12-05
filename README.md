@@ -6,11 +6,11 @@ Hello my name is Lucas, I am Front-end Developer and UI/UX Designer.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript (React), Sass, Bootstrap, Materialize and UI/UX Design.</strong>
+  🦄 Skills: <strong>HTML5, CSS3, JavaScript (React), Sass, Bootstrap, Materialize and UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git and GitHub.</strong>
+  💼 Tools: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git and GitHub.</strong>
 </p>
 
 <p align="left">

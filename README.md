@@ -2,19 +2,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Front-end Developer, trabalhando com as maiores plataforma de e-commerce.
+Hello my name is Lucas, I am Front-end Developer and UI/UX Designer. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>PHP | JS | REACT</strong>
+  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript (React), Sass, Bootstrap, Materialize and UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code | Docker | Gulp</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git and GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  💌 If you want to carry out a project with me, don't hesitate to send me a message:: ⤵️
 </p>
 
 <p align="left">

@@ -27,3 +27,13 @@ Hello my name is Lucas, I'm Front-end Developer.
 
  
 </p>  
+<table align='left'>
+  <row>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=lugarcia94&show_icons=true&theme=dark'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lugarcia94&layout=compact&theme=dark'>
+    </td>
+  </row>
+</table> 

@@ -2,11 +2,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Hello my name is Lucas, I'm Front-end Developer. 
+Hello my name is Lucas, I'm Senior Front-end Developer. 
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, JavaScript (React), Sass, Bootstrap, Materialize and UI/UX Design.</strong>
+  🚀 Skills: <strong>HTML5, CSS3, JavaScript (React), Typescript, Sass.</strong>
 </p>
 
 <p align="left">

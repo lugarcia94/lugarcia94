@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Lucas</h2>
+<h2>Hey there! I'm Lucas Costa</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 

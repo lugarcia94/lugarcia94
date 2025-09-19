@@ -1,10 +1,4 @@
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
- 
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Lucas</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<h2>Hey there! I'm Lucas</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -46,6 +40,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
  
 <p align="center">
-<a href="https://www.linkedin.com/in/lugarcia94/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:lucasgaarciaa@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lugarcia94/">Linkedin</a>
+<a href="mailto:lucasgaarciaa@gmail.com">Gmail</a>
 </p>

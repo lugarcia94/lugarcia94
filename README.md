@@ -1,25 +1,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+ 
 
-<p align="left"> 
-Hello my name is Lucas, I'm Specialist Full Stack Developer. 
-</p>
-
-<p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, JavaScript (React), Typescript, Sass.</strong>
-</p>
-
-<p align="left">
-🔨 Tools: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Netlify, Git and GitHub.</strong>
-</p>
-
-<p align="left">
-📧 If you want to carry out a project with me, don't hesitate to send me a message:: ⤵️
-</p>
-
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Lucas</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
